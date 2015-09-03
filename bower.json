@@ -3,7 +3,7 @@
     "description": "A Simple yet powerful plugin system for node applications",
     "version": "0.1.12",
     "dependencies": {
-        "juliangruber/events": "*"
+        "juliangruber/events": "https://github.com/juliangruber/events.git"
     },
     "main": "architect.js",
     "scripts": ["architect.js"]
